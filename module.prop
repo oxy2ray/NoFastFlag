@@ -1,0 +1,7 @@
+id=NoFastFlag_myron
+name=NoFastFlag for myron
+author=Zer0in
+version=v1
+versionCode=1000
+description=Try to disable AUDIO_OUTPUT_FLAG_FAST on primary out.
+updateJson=https://raw.githubusercontent.com/oxy2ray/NoFastFlag/main/update.json
